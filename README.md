@@ -10,4 +10,3 @@ Partant de la compréhension business, l'idée était de fournir à l'entreprise
 𝑵𝒐𝒎𝒃𝒓𝒆 𝒅𝒆 𝒄𝒍𝒊𝒆𝒏𝒕𝒔 𝒑𝒂𝒓 𝒕𝒚𝒑𝒆 𝒅'𝒂𝒃𝒐𝒏𝒏𝒆𝒎𝒆𝒏𝒕𝒔 : En analysant le nombre de clients dans chaque type d'abonnement, vous pouvez identifier quels segments sont les plus vulnérables aux départs. Par exemple, si un certain type d'abonnement montre un taux de départ élevé, cela peut indiquer des problèmes spécifiques à ce produit ou service.
 
 ![Dash_Analyse_clients](https://github.com/user-attachments/assets/f55b39d7-18d9-4df7-bf96-df8a13f2dabe)
- 
